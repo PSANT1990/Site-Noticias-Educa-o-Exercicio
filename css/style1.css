@@ -1,0 +1,30 @@
+@font-face{
+
+        font-family: lato;
+        src: url(../fonts/Lato/Lato-Bold.ttf);
+}
+
+.logo{
+   font-family: lato;
+   font-size: 3rem;
+   color: rgba(0)
+}
+
+.carousel-caption{
+     background-color: rgba(0,0,0,0.7);
+}
+
+.container{
+	background-color: #98A62E;
+}
+
+body{
+	background-color: #98A62E;
+}
+
+.accordion-header 
+{
+        background-color: rgba(0,0,0,0.7);
+
+
+}
